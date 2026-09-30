@@ -9,4 +9,5 @@ zmiana 1
 zmiana 1 
 zmiana 1 
 zmiana 1 
-kolejna zmiana 
+kolejna zmiana
+co najmniej  
