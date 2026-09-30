@@ -1,4 +1,6 @@
 zmiana na master
+dadadadad
+konflikt-test
 zmiana 1 
 zmiana 1 
 zmiana 1 
