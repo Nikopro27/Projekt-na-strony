@@ -1,4 +1,4 @@
-zmiana 1 
+dadadadad
 zmiana 1 
 zmiana 1 
 zmiana 1 
