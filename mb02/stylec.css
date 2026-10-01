@@ -2,7 +2,7 @@
     box-sizing: border-box;
     display: flex;
     color: #4444;
-    
+    margin: 30px;
 }
 a{
     text-decoration: underline;
@@ -10,6 +10,6 @@ a{
 }
 a:hover{
     color: blue;
-    
+
 }
 
