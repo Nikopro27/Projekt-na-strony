@@ -14,3 +14,4 @@ zmiana 1
 kolejna zmiana
 co najmniej  
 aaaaa
+NOWE ZMIANY DLA GALEZI 

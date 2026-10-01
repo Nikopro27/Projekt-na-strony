@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    display: flex;
+    color: #4444;
+    
+}
+a{
+    text-decoration: underline;
+    color: red;
+}
+a:hover{
+    color: blue;
+    
+}
+
